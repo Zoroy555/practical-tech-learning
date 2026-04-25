@@ -1,33 +1,42 @@
-# practical-tech-learning
-A personal project documenting my journey learning technical skills, building small tools, and improving problem-solving abilities.
-
 # Learning Tech Journey
 
-This repository documents my journey of learning technical skills and building small practical projects.
+A public learning repository where I document my progress in technical skills, programming basics, problem-solving, and small practical projects.
 
-## 🚀 Goals
-- Learn problem-solving and logical thinking
-- Understand basic programming concepts
-- Build simple tools and projects
-- Prepare for future work in technical fields
+## Purpose
 
-## 🛠️ What I'm doing
-- Exploring how software and systems work
-- Learning step by step through small projects
-- Documenting progress and ideas
+This repository is part of my long-term goal to build stronger technical skills and eventually contribute to open-source projects.
 
-## 📌 Current Focus
-- Basic programming concepts
-- Understanding tools and workflows
-- Improving technical thinking
+I am using this space to:
+- Track what I learn
+- Build small beginner-friendly tools
+- Practice documenting my work
+- Improve step by step
 
-## 💡 Why this matters
-I am at the beginning of my journey, but I am committed to learning and improving consistently.  
-This repository is a place where I track my progress and build a foundation for future projects.
+## Current Projects
 
-## 📈 Future Plans
-- Add small tools and scripts
-- Contribute to open-source projects
-- Expand knowledge in technical areas
+### 1. Simple Calculator
+A beginner Python calculator for basic operations.
 
----
+### 2. Study Notes
+Short notes about programming, GitHub, and technical learning.
+
+### 3. Project Ideas
+A list of future small tools I want to build.
+
+## Skills I’m Learning
+
+- GitHub workflow
+- Basic programming
+- Python fundamentals
+- Problem-solving
+- Technical documentation
+- Open-source contribution habits
+
+## Repository Structure
+
+```text
+learning-tech-journey/
+├── README.md
+├── calculator.py
+├── notes.md
+└── ideas.md
