@@ -1,0 +1,8 @@
+Project Ideas:
+
+- Simple calculator
+- Task tracker
+- Notes app
+- Basic tool for everyday use
+
+Focus: Keep it simple and learn step by step.
